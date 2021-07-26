@@ -8,3 +8,6 @@
 *.iml
 out
 gen
+
+# Remove a subida para arquivo variables
+.env
